@@ -389,6 +389,7 @@ h4 {
     height: 4rem;
     padding-left: 0.5rem;
     width: 52.3rem;
+    padding-bottom: 4rem;
 }
 
 .contact .contact-right #w {
@@ -398,7 +399,14 @@ h4 {
     width: 52.3rem;
     font-size:1.6rem;
 }
-
+.contact-right .send {
+    margin-left: 11rem;
+    background-color: crimson;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+    color: var(--text);
+}
 .foot {
     background-color: var(--bg);
 }
